@@ -1,0 +1,14 @@
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\bin\Debug\net8.0\C#基础小工程.exe
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\bin\Debug\net8.0\C#基础小工程.deps.json
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\bin\Debug\net8.0\C#基础小工程.runtimeconfig.json
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\bin\Debug\net8.0\C#基础小工程.dll
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\bin\Debug\net8.0\C#基础小工程.pdb
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\C#基础小工程.GeneratedMSBuildEditorConfig.editorconfig
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\C#基础小工程.AssemblyInfoInputs.cache
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\C#基础小工程.AssemblyInfo.cs
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\C#基础小工程.csproj.CoreCompileInputs.cache
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\C#基础小工程.dll
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\refint\C#基础小工程.dll
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\C#基础小工程.pdb
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\C#基础小工程.genruntimeconfig.cache
+D:\myNewcomputer\production\C#测试（包含C#入门的课程与作业）\C#基础小工程\C#基础小工程\obj\Debug\net8.0\ref\C#基础小工程.dll
